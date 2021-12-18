@@ -1,0 +1,14 @@
+.nav {
+    padding:5px;
+    margin: 10px;
+    
+}
+.nav a{
+    padding-right: 5px;
+    border: black solid 2px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: cyan;
+    color: black;
+    text-decoration: none;
+}
